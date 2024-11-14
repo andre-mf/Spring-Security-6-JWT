@@ -7,7 +7,6 @@ import com.andre.springsecurity.entities.Role;
 import com.andre.springsecurity.entities.Tweet;
 import com.andre.springsecurity.repository.TweetRepository;
 import com.andre.springsecurity.repository.UserRepository;
-import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
 import org.springframework.http.HttpStatus;
